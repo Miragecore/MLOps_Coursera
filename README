@@ -1,1 +1,10 @@
 MLOPs 코스중에 노트북을 저장히기 위한 저장소
+
+https://github.com/https-deeplearning-ai/machine-learning-engineering-for-production-public
+
+- 위의 저장소의 것들을 Colab에서 동작시키기 위함
+- 로컬에 저장되어야할 파일들은 GoogleDrive를 이용
+- GoogleDrive의 구조
+  MyDrive---MLOps_Coursera-+-ML_for_production-+-Course1-+-Week1
+                                                         +-Week2
+                                               +-Course2
