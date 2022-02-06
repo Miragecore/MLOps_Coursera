@@ -1,6 +1,5 @@
-cvlib
-fastapi
-nest-asyncio
-pyngrok
-uvicorn
-python-multipart
+cvlib==0.2.6
+fastapi==0.73.0
+pyngrok==5.1.0
+uvicorn==0.17.4
+python-multipart==0.0.5
